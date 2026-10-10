@@ -1,6 +1,7 @@
 # Meridian Lee | Cybernetic Systems Architect
 
 > *“Debugging is not about chasing bugs, it is about building completeness.”*  
+
 > *“AI handles the compute in between, humanity anchors both ends: 0 to 1 is passion, 80 to 100 is accountability.”*
 
 ---
