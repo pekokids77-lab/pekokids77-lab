@@ -1,4 +1,4 @@
-# Meridian Lee | Cybernetic Systems Architect
+# Meridian Lee | topology Architect
 
 > *“Debugging is not about chasing bugs, it is about building completeness.”*  
 
