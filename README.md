@@ -4,6 +4,8 @@
 
 > *“AI handles the compute in between, humanity anchors both ends: 0 to 1 is passion, 80 to 100 is accountability.”*
 
+> *“Repetition tells us what happens , topology and geometry tell us what must.”*
+
 ---
 
 ### 🌐 Unified Cybernetic Theoretical Framework / 理論架構體系
