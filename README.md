@@ -10,6 +10,6 @@
 
 ### 🌐 Unified Cybernetic Theoretical Framework / 理論架構體系
 
-- 📜 **[RFC-Negentropy-Meta-Framework](https://github.com/pekokids77-lab/RFC-Negentropy-Meta-Framework-Specification)**：自適應系統拓撲邊界與抗熵控制標準規範。
+- 📜 **[RFC-Negentropy-Meta-Framework](https://github.com/pekokids77-lab/RFC-Negentropy-Meta-Framework-Specification)**：核心—緩衝—邊界(C-B-E)系統韌性與隔離協議
 - 🧠 **[SSCM Cognitive Model](https://github.com/pekokids77-lab/SSCM-Cognitive-Model)**：自旋心智球體拓撲控制論（微觀認知實作）。
 
